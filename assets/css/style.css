@@ -24,6 +24,8 @@ body .card {
     width: 35%;
     margin: 25px auto;
     min-width: 370px;
+    border-color: #28a745;
+    box-shadow: 2px 2px 2px black;
 }
 
 div .card-header {
@@ -32,6 +34,7 @@ div .card-header {
     align-items: center;
     background-color: #28a745;
     color: white;
+    
 }
 
 h3 {
